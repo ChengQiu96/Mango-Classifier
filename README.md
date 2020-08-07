@@ -1,5 +1,7 @@
 # Mango Classifier
-This is Mango and I want to build a neutral network model that can differentiate Mango from other dogs. 
+(Inspired by the Hotdog Not Hotdog app from the TV show Silicon Valley)
+This is Mango and I want to build a neutral network model that can differentiate Mango from other dogs. (Mango vs Not Mango)
+
 <img src="Mango/IMG_9359.jpg" width="500">
 
 # DATA SET
