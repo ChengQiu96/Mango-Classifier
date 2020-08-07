@@ -1,11 +1,11 @@
 # Mango Classifier
-(Inspired by the Hotdog Not Hotdog app from the TV show Silicon Valley)
+(Inspired by the Hotdog Not Hotdog app from the TV show Silicon Valley) <br />
 This is Mango and I want to build a neutral network model that can differentiate Mango from other dogs. (Mango vs Not Mango)
 
 <img src="Mango/IMG_9359.jpg" width="500">
 
 # DATA SET
-All positive data are scrapped from Mango's alumn on Google Drive and Mango's Instagram page. 
+All positive data are scrapped from Mango's alumn on Google Drive and Mango's Instagram page. <br />
 All negative data are from the Microsoft Cats and Dogs data set (I used only picture of dogs).
 
 # Result
